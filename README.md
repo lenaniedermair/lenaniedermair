@@ -56,5 +56,5 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lenaniedermair&theme=zenburn" alt="GitHub Profile Summary" />
-  <img src="https://metrics.leweekly.me/lenaniedermair?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&languages.limit=8&theme=dark" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lenaniedermair&theme=dark" alt="WakaTime Stats" />
 </p>
