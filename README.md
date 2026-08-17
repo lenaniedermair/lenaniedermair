@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lena</h1>
 <h3 align="center">UI/UX Designer & Fullstack Developer from Austria 🇦🇹</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lenaniedermair&label=Profile%20views&color=0e75b6&style=flat-square" alt="lenaniedermair" />
-</p>
 
 ---
 
@@ -58,6 +55,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lenaniedermair&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lenaniedermair&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=lenaniedermair&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=lenaniedermair&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lenaniedermair&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
