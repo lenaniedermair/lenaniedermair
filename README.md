@@ -56,5 +56,5 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lenaniedermair&theme=zenburn" alt="GitHub Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=lenaniedermair&theme=zenburn" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lenaniedermair&theme=zenburn" alt="Top Languages by Repos" />
 </p>
